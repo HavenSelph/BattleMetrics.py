@@ -23,7 +23,7 @@ Output (I have removed private information, but it is all there):
 ```
 95 out of 100 players are online.
 Rule 1.3 - Griefing | {{timeLeft}} | Appeal at discord.gg/PRIVATESERVERNAME
-↱Trial & Error↲ Discord.gg/PRIVATESERVERNAME
+PRIVATESERVERNAME Discord.gg/PRIVATESERVERNAME
 ServerRelationship(game='squad', organization='PRIVATEORGID')
 ```
 
