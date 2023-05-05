@@ -28,12 +28,4 @@ ServerRelationship(game='squad', organization='PRIVATEORGID')
 ```
 
 
-I will not update this README for a while, so let me lay out how collaboration will work on this project:
-
-## Collaboration
-I will NOT accept:
-  - Formatting pull requests: merge conflicts on these is a complete waste of my time. Do something useful if you want to collaborate.
-  - Very small pull requests (1-10 lines) open an issue with a proposed fix instead. Thank you.
-  - Very large pull requests (500 lines+) if you see a change taking more lines than this, please instead reach out to me on Discord about the change: TwistyShark#9224
-
-Please include a description of changes in your pull request, and please do not touch code that doesn't relate to your change. Instead, open a second pull request for those changes. Thank you.
+You're fine to collaborate with me, but please include a description of changes in your pull request, and please do not touch code that doesn't relate to your change. Instead, open a second pull request for those changes. Thank you.
